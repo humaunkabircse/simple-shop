@@ -8,7 +8,6 @@ onBeforeMount(() => {
     products.value = res.data.products
   })
 })
-console.log(products)
 </script>
 
 <template>
